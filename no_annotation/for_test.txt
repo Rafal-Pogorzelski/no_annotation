@@ -1,0 +1,5 @@
+[g:LaunchApplication] Avviami (Bixby)[v:ApplicationName]
+[g:CloseApplication] Potresti chiudermi (Internet)[v:ApplicationName]
+"[g:LaunchApplication] Mi apri l'applicazione (display)[v:ApplicationName]"
+"[g:LaunchApplication] Apri (Youtube)[v:ApplicationName] in modalità (multi-window)[v:MultiOption:MultiWindow]"
+"[g:LaunchApplication] Aprimi in (multiwindow)[v:MultiOption:MultiWindow] (Messaggi)[v:ApplicationName] e (Reminder)[v:ApplicationName]"
